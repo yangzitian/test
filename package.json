@@ -16,10 +16,10 @@
     "webpack-dev-server": "^3.8.0"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.10.0",
-    "@vue/cli-plugin-eslint": "^3.10.0",
-    "@vue/cli-plugin-unit-jest": "^3.10.0",
-    "@vue/cli-service": "^3.10.0",
+    "@vue/cli-plugin-babel": "^5.0.9",
+    "@vue/cli-plugin-eslint": "^5.0.9",
+    "@vue/cli-plugin-unit-jest": "^5.0.9",
+    "@vue/cli-service": "^5.0.9",
     "@vue/eslint-config-standard": "^4.0.0",
     "@vue/test-utils": "1.0.0-beta.29",
     "babel-core": "7.0.0-bridge.0",
@@ -28,7 +28,7 @@
     "css-loader": "^3.2.0",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
-    "less": "^3.10.1",
+    "less": "^3.13.1",
     "less-loader": "^4.1.0",
     "style-loader": "^1.0.0",
     "style-resources-loader": "^1.2.1",
